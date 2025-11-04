@@ -1,8 +1,6 @@
 # Clash Royale Emote Detector
 
-A pose classifier for Clash Royale emotes built using MediaPipe for landmark detection and scikit-learn for machine learning classification.
-
-![Clash Royale Emote Detector in Action](example.png) 
+A pose classifier for Clash Royale emotes built using MediaPipe for landmark detection and scikit-learn for machine learning classification. 
 
 ## Features
 
